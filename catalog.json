@@ -1,0 +1,90 @@
+[
+  {
+    "id": "redro-todo",
+    "name": "Redro To-Do",
+    "category": "productivity",
+    "icon": "✓",
+    "version": "1.0",
+    "status": "available",
+    "description": "منظّم مهام مرن يعتمد على الكتل المتداخلة، مع مجموعات ومهام فرعية ونسخ احتياطي ودعم العربية والإنجليزية.",
+    "url": "https://mhamedshasho.github.io/redro-to-list/",
+    "repo": "https://github.com/mhamedshasho/redro-to-list"
+  },
+  {
+    "id": "redro-phone-manager",
+    "name": "Redro Phone Manager",
+    "category": "tools",
+    "icon": "☎",
+    "version": "1.0",
+    "status": "available",
+    "description": "إدارة جهات الاتصال ومجموعات الأرقام، مع إمكانية ربط الأرقام بمهام Redro To-Do.",
+    "url": "https://mhamedshasho.github.io/redro-to-list/phone-numbers-manager/",
+    "repo": "https://github.com/mhamedshasho/redro-to-list"
+  },
+  {
+    "id": "redro-spoil-free-copy",
+    "name": "Redro Spoil Free Copy",
+    "category": "business",
+    "icon": "📦",
+    "version": "1.0",
+    "status": "available",
+    "description": "إدارة المنتجات والكميات وتواريخ الصلاحية للمخازن والمطابخ وبيئات العمل، مع دعم العمل المحلي.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/redro-free-spoil-copy"
+  },
+  {
+    "id": "redro-workforce",
+    "name": "Redro Workforce",
+    "category": "business",
+    "icon": "👥",
+    "version": "1.0",
+    "status": "coming",
+    "description": "إدارة الموظفين والحضور والانصراف والفروع والتقارير.",
+    "url": "",
+    "repo": ""
+  },
+  {
+    "id": "redro-center-cash",
+    "name": "Redro Center Cash",
+    "category": "business",
+    "icon": "₿",
+    "version": "1.0",
+    "status": "available",
+    "description": "إدارة حسابات العملاء والدفعات والأرصدة ومتابعة له وعليه.",
+    "url": "https://aleppo-center-cash.vercel.app/",
+    "repo": "https://github.com/mhamedshasho/aleppo-center-cash"
+  },
+  {
+    "id": "redro-barber-manager",
+    "name": "Redro Barber Manager",
+    "category": "business",
+    "icon": "✂",
+    "version": "1.0",
+    "status": "coming",
+    "description": "إدارة حجوزات صالون الحلاقة وتنظيم المواعيد ومدد الخدمات.",
+    "url": "",
+    "repo": ""
+  },
+  {
+    "id": "redro-school-planner",
+    "name": "Redro School Planner",
+    "category": "education",
+    "icon": "📚",
+    "version": "1.0",
+    "status": "available",
+    "description": "جدول دراسي تفاعلي مناسب للهاتف مع تصدير الجدول إلى PDF وPNG.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/redro-school-planner"
+  },
+  {
+    "id": "redro-flowchart",
+    "name": "Redro Flowchart",
+    "category": "development",
+    "icon": "◇",
+    "version": "1.0",
+    "status": "available",
+    "description": "أداة لإنشاء المخططات الانسيابية وتنظيم خطوات الحل بصرياً.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/Redro-flowchart"
+  }
+]
