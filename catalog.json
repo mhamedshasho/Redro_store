@@ -3,88 +3,88 @@
     "id": "redro-todo",
     "name": "Redro To-Do",
     "category": "productivity",
-    "icon": "✓",
     "version": "1.0",
     "status": "available",
     "description": "منظّم مهام مرن يعتمد على الكتل المتداخلة، مع مجموعات ومهام فرعية ونسخ احتياطي ودعم العربية والإنجليزية.",
     "url": "https://mhamedshasho.github.io/redro-to-list/",
-    "repo": "https://github.com/mhamedshasho/redro-to-list"
+    "repo": "https://github.com/mhamedshasho/redro-to-list",
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/assets/app-icon-512.png"
   },
   {
     "id": "redro-phone-manager",
     "name": "Redro Phone Manager",
     "category": "tools",
-    "icon": "☎",
     "version": "1.0",
     "status": "available",
     "description": "إدارة جهات الاتصال ومجموعات الأرقام، مع إمكانية ربط الأرقام بمهام Redro To-Do.",
     "url": "https://mhamedshasho.github.io/redro-to-list/phone-numbers-manager/",
-    "repo": "https://github.com/mhamedshasho/redro-to-list"
+    "repo": "https://github.com/mhamedshasho/redro-to-list",
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/phone-numbers-manager/icons/icon.svg"
   },
   {
     "id": "redro-spoil-free-copy",
     "name": "Redro Spoil Free Copy",
     "category": "business",
-    "icon": "📦",
     "version": "1.0",
     "status": "available",
     "description": "إدارة المنتجات والكميات وتواريخ الصلاحية للمخازن والمطابخ وبيئات العمل، مع دعم العمل المحلي.",
     "url": "",
-    "repo": "https://github.com/mhamedshasho/redro-free-spoil-copy"
+    "repo": "https://github.com/mhamedshasho/redro-free-spoil-copy",
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-free-spoil-copy/main/assets/app-icon-512.png"
   },
   {
     "id": "redro-workforce",
     "name": "Redro Workforce",
     "category": "business",
-    "icon": "👥",
     "version": "1.0",
     "status": "coming",
     "description": "إدارة الموظفين والحضور والانصراف والفروع والتقارير.",
     "url": "",
-    "repo": ""
+    "repo": "",
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-workforce/main/assets/app-icon-512.png"
   },
   {
     "id": "redro-center-cash",
     "name": "Redro Center Cash",
     "category": "business",
-    "icon": "₿",
     "version": "1.0",
     "status": "available",
     "description": "إدارة حسابات العملاء والدفعات والأرصدة ومتابعة له وعليه.",
     "url": "https://aleppo-center-cash.vercel.app/",
-    "repo": "https://github.com/mhamedshasho/aleppo-center-cash"
+    "repo": "https://github.com/mhamedshasho/aleppo-center-cash",
+    "image": "https://raw.githubusercontent.com/mhamedshasho/aleppo-center-cash/main/client/public/redro-mark.png"
   },
   {
     "id": "redro-barber-manager",
     "name": "Redro Barber Manager",
     "category": "business",
-    "icon": "✂",
     "version": "1.0",
     "status": "coming",
     "description": "إدارة حجوزات صالون الحلاقة وتنظيم المواعيد ومدد الخدمات.",
     "url": "",
-    "repo": ""
+    "repo": "",
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-barber-manager/main/icon.svg"
   },
   {
     "id": "redro-school-planner",
     "name": "Redro School Planner",
     "category": "education",
-    "icon": "📚",
     "version": "1.0",
     "status": "available",
     "description": "جدول دراسي تفاعلي مناسب للهاتف مع تصدير الجدول إلى PDF وPNG.",
     "url": "",
-    "repo": "https://github.com/mhamedshasho/redro-school-planner"
+    "repo": "https://github.com/mhamedshasho/redro-school-planner",
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-school-planner/main/assets/app-icon-512.png"
   },
   {
     "id": "redro-flowchart",
     "name": "Redro Flowchart",
     "category": "development",
-    "icon": "◇",
     "version": "1.0",
     "status": "available",
     "description": "أداة لإنشاء المخططات الانسيابية وتنظيم خطوات الحل بصرياً.",
     "url": "",
-    "repo": "https://github.com/mhamedshasho/Redro-flowchart"
+    "repo": "https://github.com/mhamedshasho/Redro-flowchart",
+    "image": "./assets/logos/redro-flowchart.svg"
   }
 ]
