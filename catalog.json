@@ -110,16 +110,6 @@
     "image": "./icon.svg"
   },
   {
-    "id": "redro-daleel",
-    "name": "Redro دليل",
-    "category": "tools",
-    "version": "0.1",
-    "status": "available",
-    "description": "دليل عربي للأعمال والخدمات المحلية مع البحث والتصنيفات وصفحات التفاصيل ولوحة إدارة.",
-    "url": "https://redro-daleel.pages.dev/",
-    "image": "./icon.svg"
-  },
-  {
     "id": "redro-pricing",
     "name": "Redro Pricing",
     "category": "business",
