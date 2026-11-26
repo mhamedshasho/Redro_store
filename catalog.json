@@ -143,17 +143,6 @@
     "image": "./icon.svg"
   },
   {
-    "id": "redro-web-designer",
-    "name": "Redro Web Designer",
-    "category": "design",
-    "version": "0.1",
-    "status": "coming",
-    "description": "محرر بصري لتصميم صفحات الويب وإدارة العناصر والحاويات والطبقات وتصدير ملفات الموقع. ما زال قيد التطوير.",
-    "url": "",
-    "repo": "https://github.com/mhamedshasho/Redro-web-designer-",
-    "image": "./icon.svg"
-  },
-  {
     "id": "redro-pdf-to-word",
     "name": "Redro PDF to Word",
     "category": "tools",
