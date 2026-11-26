@@ -1,0 +1,6 @@
+{
+  "appId": "com.redro.store",
+  "appName": "Redro Store",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
