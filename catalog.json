@@ -8,7 +8,8 @@
     "description": "منظّم مهام يعتمد على الكتل المتداخلة والمجموعات والمهام الفرعية، مع البحث والنسخ الاحتياطي ودعم العربية والإنجليزية.",
     "url": "https://mhamedshasho.github.io/redro-to-list/",
     "image": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/assets/app-icon-512.png",
-    "apkUrl": "https://github.com/mhamedshasho/redro-to-list/releases/download/android-preview-45839507294/redro-to-list-android-apk.apk"
+    "apkUrl": "https://github.com/mhamedshasho/redro-to-list/releases/download/android-preview-45839507294/redro-to-list-android-apk.apk",
+    "cover": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/assets/brand-concepts/redbro-to-do-list.jpg"
   },
   {
     "id": "redro-phone-manager",
@@ -30,7 +31,8 @@
     "description": "إدارة المخزون والمنتجات وتواريخ الصلاحية والكميات، مع حفظ محلي ونسخ احتياطي وتصدير التقارير.",
     "url": "",
     "image": "https://raw.githubusercontent.com/mhamedshasho/redro-free-spoil-copy/main/assets/app-icon-512.png",
-    "apkUrl": "https://github.com/mhamedshasho/redro-free-spoil-copy/releases/download/android-preview-45839562694/redro-food-stock-android-debug.apk"
+    "apkUrl": "https://github.com/mhamedshasho/redro-free-spoil-copy/releases/download/android-preview-45839562694/redro-food-stock-android-debug.apk",
+    "cover": "https://raw.githubusercontent.com/mhamedshasho/redro-free-spoil-copy/main/assets/brand-concepts/redbro-food-stock.jpg"
   },
   {
     "id": "redro-workforce",
@@ -85,7 +87,8 @@
     "description": "مخطط وجدول دراسي مصمم للهاتف، مع تخصيص الخانات والألوان والصور وتصدير PNG وPDF.",
     "url": "https://mhamedshasho.github.io/redro-school-planner/",
     "image": "https://raw.githubusercontent.com/mhamedshasho/redro-school-planner/main/assets/app-icon-512.png",
-    "apkUrl": "https://github.com/mhamedshasho/redro-school-planner/releases/download/android-preview-45839516116/redro-school-planner-android-apk.apk"
+    "apkUrl": "https://github.com/mhamedshasho/redro-school-planner/releases/download/android-preview-45839516116/redro-school-planner-android-apk.apk",
+    "cover": "https://raw.githubusercontent.com/mhamedshasho/redro-school-planner/main/assets/brand-concepts/redbro-school-planner.jpg"
   },
   {
     "id": "redro-flowchart",
@@ -129,7 +132,8 @@
     "description": "حاسبة تسعير المنتجات والخدمات باستخدام هامش الربح أو ربح ثابت، مع سجل محلي وملخصات قابلة للمشاركة.",
     "url": "",
     "image": "./icon.svg",
-    "apkUrl": "https://github.com/mhamedshasho/redro-pricing/releases/download/android-preview-45839572039/Redro-Pricing-Android-APK.apk"
+    "apkUrl": "https://github.com/mhamedshasho/redro-pricing/releases/download/android-preview-45839572039/Redro-Pricing-Android-APK.apk",
+    "cover": "https://raw.githubusercontent.com/mhamedshasho/redro-pricing/main/grok_1795682575120.jpg"
   },
   {
     "id": "redro-center-cash-offline",
