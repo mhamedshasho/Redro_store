@@ -7,7 +7,8 @@
     "status": "available",
     "description": "منظّم مهام يعتمد على الكتل المتداخلة والمجموعات والمهام الفرعية، مع البحث والنسخ الاحتياطي ودعم العربية والإنجليزية.",
     "url": "https://mhamedshasho.github.io/redro-to-list/",
-    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/assets/app-icon-512.png"
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/assets/app-icon-512.png",
+    "apkUrl": "https://github.com/mhamedshasho/redro-to-list/releases/download/android-preview-45839507294/redro-to-list-android-apk.apk"
   },
   {
     "id": "redro-phone-manager",
@@ -17,7 +18,8 @@
     "status": "available",
     "description": "إدارة جهات الاتصال ومجموعات الأرقام من واجهة هاتفية بسيطة.",
     "url": "https://mhamedshasho.github.io/redro-to-list/phone-numbers-manager/",
-    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/phone-numbers-manager/icons/icon.svg"
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/phone-numbers-manager/icons/icon.svg",
+    "apkUrl": "https://github.com/mhamedshasho/redro-to-list/releases/download/android-preview-45839507294/redro-phone-manager-android-apk.apk"
   },
   {
     "id": "redro-spoil-free-copy",
@@ -27,7 +29,8 @@
     "status": "available",
     "description": "إدارة المخزون والمنتجات وتواريخ الصلاحية والكميات، مع حفظ محلي ونسخ احتياطي وتصدير التقارير.",
     "url": "",
-    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-free-spoil-copy/main/assets/app-icon-512.png"
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-free-spoil-copy/main/assets/app-icon-512.png",
+    "apkUrl": "https://github.com/mhamedshasho/redro-free-spoil-copy/releases/download/android-preview-45839562694/redro-food-stock-android-debug.apk"
   },
   {
     "id": "redro-workforce",
@@ -47,7 +50,9 @@
     "status": "available",
     "description": "إدارة حسابات العملاء والدفعات والأرصدة ومتابعة الحركات المالية للمركز.",
     "url": "https://aleppo-center-cash.vercel.app/",
-    "image": "https://raw.githubusercontent.com/mhamedshasho/aleppo-center-cash/main/client/public/redro-mark.png"
+    "image": "https://raw.githubusercontent.com/mhamedshasho/aleppo-center-cash/main/client/public/redro-mark.png",
+    "windowsUrl": "https://github.com/mhamedshasho/aleppo-center-cash/releases/download/windows-v1.0.2/Aleppo.Center.Cash.Setup.1.0.9.exe",
+    "windowsPortableUrl": "https://github.com/mhamedshasho/aleppo-center-cash/releases/download/windows-v1.0.2/Aleppo.Center.Cash.1.0.9.exe"
   },
   {
     "id": "redro-barber-manager",
@@ -57,7 +62,8 @@
     "status": "available",
     "description": "نظام إدارة صالون حلاقة يشمل العملاء والخدمات والمواعيد والحضور والانتظار والتقارير.",
     "url": "https://redro-barber-manager.vercel.app/",
-    "image": "./icon.svg"
+    "image": "./icon.svg",
+    "apkUrl": "https://github.com/mhamedshasho/redro-barber-manager/releases/download/android-preview-45839532615/redro-barber-manager-android-apk.apk"
   },
   {
     "id": "redro-barber-client",
@@ -67,7 +73,8 @@
     "status": "available",
     "description": "بوابة العملاء التابعة لـ Redro Barber لعرض الملف الشخصي والمواعيد وطلب حجز موعد متاح.",
     "url": "https://redro-barber-client.vercel.app/",
-    "image": "./icon.svg"
+    "image": "./icon.svg",
+    "apkUrl": "https://github.com/mhamedshasho/redro-barber-client/releases/download/android-preview-45839541129/redro-barber-client-android-apk.apk"
   },
   {
     "id": "redro-school-planner",
@@ -77,7 +84,8 @@
     "status": "available",
     "description": "مخطط وجدول دراسي مصمم للهاتف، مع تخصيص الخانات والألوان والصور وتصدير PNG وPDF.",
     "url": "https://mhamedshasho.github.io/redro-school-planner/",
-    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-school-planner/main/assets/app-icon-512.png"
+    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-school-planner/main/assets/app-icon-512.png",
+    "apkUrl": "https://github.com/mhamedshasho/redro-school-planner/releases/download/android-preview-45839516116/redro-school-planner-android-apk.apk"
   },
   {
     "id": "redro-flowchart",
@@ -87,7 +95,8 @@
     "status": "available",
     "description": "محرر مخططات انسيابية للتعلم وتنظيم الخوارزميات، مع واجهة مخصصة للحاسوب والهاتف.",
     "url": "https://mhamedshasho.github.io/Redro-flowchart/",
-    "image": "./assets/logos/redro-flowchart.svg"
+    "image": "./assets/logos/redro-flowchart.svg",
+    "apkUrl": "https://github.com/mhamedshasho/Redro-flowchart/releases/download/android-preview-45839525615/redro-flowchart-android-apk.apk"
   },
   {
     "id": "redro-reserve",
@@ -97,7 +106,8 @@
     "status": "available",
     "description": "تطبيق محلي لإدارة حجوزات الطاولات وأجهزة PlayStation والغرف والموارد، مع كشف تعارض المواعيد والنسخ الاحتياطي.",
     "url": "",
-    "image": "./icon.svg"
+    "image": "./icon.svg",
+    "apkUrl": "https://github.com/mhamedshasho/Redro-reserve/releases/download/android-preview-45839314835/redro-reserve-android-apk.apk"
   },
   {
     "id": "redro-connect",
@@ -107,7 +117,8 @@
     "status": "coming",
     "description": "مشروع تواصل مباشر بين الأجهزة يعتمد على WebRTC وتخزين المحادثات محلياً. الاتصال في المرحلة الحالية يتطلب إعداداً يدوياً.",
     "url": "",
-    "image": "./icon.svg"
+    "image": "./icon.svg",
+    "apkUrl": "https://github.com/mhamedshasho/Redro-connect/releases/download/android-preview-45839293664/redro-connect-android-apk.apk"
   },
   {
     "id": "redro-pricing",
@@ -117,7 +128,8 @@
     "status": "available",
     "description": "حاسبة تسعير المنتجات والخدمات باستخدام هامش الربح أو ربح ثابت، مع سجل محلي وملخصات قابلة للمشاركة.",
     "url": "",
-    "image": "./icon.svg"
+    "image": "./icon.svg",
+    "apkUrl": "https://github.com/mhamedshasho/redro-pricing/releases/download/android-preview-45839572039/Redro-Pricing-Android-APK.apk"
   },
   {
     "id": "redro-center-cash-offline",
@@ -127,7 +139,8 @@
     "status": "available",
     "description": "دفتر حسابات محلي يعمل دون تسجيل دخول أو خادم، مع حسابات العملاء وسجل الحركات والنسخ الاحتياطي.",
     "url": "",
-    "image": "./icon.svg"
+    "image": "./icon.svg",
+    "apkUrl": "https://github.com/mhamedshasho/Redro-Aleppo-center-cash-offline-version-/releases/download/android-preview-45839581549/Redro-Center-Cash-APK.apk"
   },
   {
     "id": "redro-islamic",
