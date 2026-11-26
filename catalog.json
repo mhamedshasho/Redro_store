@@ -5,7 +5,7 @@
     "category": "productivity",
     "version": "1.0",
     "status": "available",
-    "description": "منظّم مهام مرن يعتمد على الكتل المتداخلة، مع مجموعات ومهام فرعية ونسخ احتياطي ودعم العربية والإنجليزية.",
+    "description": "منظّم مهام يعتمد على الكتل المتداخلة والمجموعات والمهام الفرعية، مع البحث والنسخ الاحتياطي ودعم العربية والإنجليزية.",
     "url": "https://mhamedshasho.github.io/redro-to-list/",
     "repo": "https://github.com/mhamedshasho/redro-to-list",
     "image": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/assets/app-icon-512.png"
@@ -16,7 +16,7 @@
     "category": "tools",
     "version": "1.0",
     "status": "available",
-    "description": "إدارة جهات الاتصال ومجموعات الأرقام، مع إمكانية ربط الأرقام بمهام Redro To-Do.",
+    "description": "إدارة جهات الاتصال ومجموعات الأرقام من واجهة هاتفية بسيطة.",
     "url": "https://mhamedshasho.github.io/redro-to-list/phone-numbers-manager/",
     "repo": "https://github.com/mhamedshasho/redro-to-list",
     "image": "https://raw.githubusercontent.com/mhamedshasho/redro-to-list/main/phone-numbers-manager/icons/icon.svg"
@@ -27,7 +27,7 @@
     "category": "business",
     "version": "1.0",
     "status": "available",
-    "description": "إدارة المنتجات والكميات وتواريخ الصلاحية للمخازن والمطابخ وبيئات العمل، مع دعم العمل المحلي.",
+    "description": "إدارة المخزون والمنتجات وتواريخ الصلاحية والكميات، مع حفظ محلي ونسخ احتياطي وتصدير التقارير.",
     "url": "",
     "repo": "https://github.com/mhamedshasho/redro-free-spoil-copy",
     "image": "https://raw.githubusercontent.com/mhamedshasho/redro-free-spoil-copy/main/assets/app-icon-512.png"
@@ -36,11 +36,11 @@
     "id": "redro-workforce",
     "name": "Redro Workforce",
     "category": "business",
-    "version": "1.0",
+    "version": "0.1",
     "status": "coming",
-    "description": "إدارة الموظفين والحضور والانصراف والفروع والتقارير.",
+    "description": "مشروع قيد التطوير لإدارة الموظفين والحضور والانصراف والفروع. النسخة الحالية أساس أولي وليست نظاماً مكتملاً.",
     "url": "",
-    "repo": "",
+    "repo": "https://github.com/mhamedshasho/redro-workforce",
     "image": "https://raw.githubusercontent.com/mhamedshasho/redro-workforce/main/assets/app-icon-512.png"
   },
   {
@@ -49,7 +49,7 @@
     "category": "business",
     "version": "1.0",
     "status": "available",
-    "description": "إدارة حسابات العملاء والدفعات والأرصدة ومتابعة له وعليه.",
+    "description": "إدارة حسابات العملاء والدفعات والأرصدة ومتابعة الحركات المالية للمركز.",
     "url": "https://aleppo-center-cash.vercel.app/",
     "repo": "https://github.com/mhamedshasho/aleppo-center-cash",
     "image": "https://raw.githubusercontent.com/mhamedshasho/aleppo-center-cash/main/client/public/redro-mark.png"
@@ -59,11 +59,22 @@
     "name": "Redro Barber Manager",
     "category": "business",
     "version": "1.0",
-    "status": "coming",
-    "description": "إدارة حجوزات صالون الحلاقة وتنظيم المواعيد ومدد الخدمات.",
-    "url": "",
-    "repo": "",
-    "image": "https://raw.githubusercontent.com/mhamedshasho/redro-barber-manager/main/icon.svg"
+    "status": "available",
+    "description": "نظام إدارة صالون حلاقة يشمل العملاء والخدمات والمواعيد والحضور والانتظار والتقارير.",
+    "url": "https://redro-barber-manager.vercel.app/",
+    "repo": "https://github.com/mhamedshasho/redro-barber-manager",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-barber-client",
+    "name": "Redro Barber Client",
+    "category": "business",
+    "version": "1.0",
+    "status": "available",
+    "description": "بوابة العملاء التابعة لـ Redro Barber لعرض الملف الشخصي والمواعيد وطلب حجز موعد متاح.",
+    "url": "https://redro-barber-client.vercel.app/",
+    "repo": "https://github.com/mhamedshasho/redro-barber-client",
+    "image": "./icon.svg"
   },
   {
     "id": "redro-school-planner",
@@ -71,8 +82,8 @@
     "category": "education",
     "version": "1.0",
     "status": "available",
-    "description": "جدول دراسي تفاعلي مناسب للهاتف مع تصدير الجدول إلى PDF وPNG.",
-    "url": "",
+    "description": "مخطط وجدول دراسي مصمم للهاتف، مع تخصيص الخانات والألوان والصور وتصدير PNG وPDF.",
+    "url": "https://mhamedshasho.github.io/redro-school-planner/",
     "repo": "https://github.com/mhamedshasho/redro-school-planner",
     "image": "https://raw.githubusercontent.com/mhamedshasho/redro-school-planner/main/assets/app-icon-512.png"
   },
@@ -82,9 +93,130 @@
     "category": "development",
     "version": "1.0",
     "status": "available",
-    "description": "أداة لإنشاء المخططات الانسيابية وتنظيم خطوات الحل بصرياً.",
-    "url": "",
+    "description": "محرر مخططات انسيابية للتعلم وتنظيم الخوارزميات، مع واجهة مخصصة للحاسوب والهاتف.",
+    "url": "https://mhamedshasho.github.io/Redro-flowchart/",
     "repo": "https://github.com/mhamedshasho/Redro-flowchart",
     "image": "./assets/logos/redro-flowchart.svg"
+  },
+  {
+    "id": "redro-reserve",
+    "name": "Redro Reserve",
+    "category": "business",
+    "version": "1.0",
+    "status": "available",
+    "description": "تطبيق محلي لإدارة حجوزات الطاولات وأجهزة PlayStation والغرف والموارد، مع كشف تعارض المواعيد والنسخ الاحتياطي.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/Redro-reserve",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-connect",
+    "name": "Redro Connect",
+    "category": "tools",
+    "version": "0.1",
+    "status": "coming",
+    "description": "مشروع تواصل مباشر بين الأجهزة يعتمد على WebRTC وتخزين المحادثات محلياً. الاتصال في المرحلة الحالية يتطلب إعداداً يدوياً.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/Redro-connect",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-daleel",
+    "name": "Redro دليل",
+    "category": "tools",
+    "version": "0.1",
+    "status": "available",
+    "description": "دليل عربي للأعمال والخدمات المحلية مع البحث والتصنيفات وصفحات التفاصيل ولوحة إدارة.",
+    "url": "https://redro-daleel.pages.dev/",
+    "repo": "https://github.com/mhamedshasho/redro-daleel",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-pricing",
+    "name": "Redro Pricing",
+    "category": "business",
+    "version": "1.0",
+    "status": "available",
+    "description": "حاسبة تسعير المنتجات والخدمات باستخدام هامش الربح أو ربح ثابت، مع سجل محلي وملخصات قابلة للمشاركة.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/redro-pricing",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-web-designer",
+    "name": "Redro Web Designer",
+    "category": "design",
+    "version": "0.1",
+    "status": "coming",
+    "description": "محرر بصري لتصميم صفحات الويب وإدارة العناصر والحاويات والطبقات وتصدير ملفات الموقع. ما زال قيد التطوير.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/Redro-web-designer-",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-pdf-to-word",
+    "name": "Redro PDF to Word",
+    "category": "tools",
+    "version": "0.1",
+    "status": "coming",
+    "description": "أداة لتحويل ملفات PDF إلى Word مع معالجة محلية للملفات. نسخة الويب والحاسوب قيد التطوير وتختلف دقة التنسيق بحسب المستند.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/redro-tools",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-pdf-converter",
+    "name": "Redro PDF Converter",
+    "category": "tools",
+    "version": "0.1",
+    "status": "coming",
+    "description": "مشروع مخطط لتطبيق Android لتحويل PDF إلى Word محلياً على الجهاز. لم تصدر نسخة APK بعد.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/Redro-pdf-converter-",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-center-cash-offline",
+    "name": "Redro Center Cash Offline",
+    "category": "business",
+    "version": "1.0",
+    "status": "available",
+    "description": "دفتر حسابات محلي يعمل دون تسجيل دخول أو خادم، مع حسابات العملاء وسجل الحركات والنسخ الاحتياطي.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/Redro-Aleppo-center-cash-offline-version-",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-islamic",
+    "name": "Redro Islamic",
+    "category": "tools",
+    "version": "1.0",
+    "status": "available",
+    "description": "تطبيق إسلامي يجمع مواقيت الصلاة والأذان والمصحف والأذكار والقبلة والسبحة وحاسبة الزكاة.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/REDRO-ISLAMIC",
+    "image": "https://raw.githubusercontent.com/mhamedshasho/REDRO-ISLAMIC/main/assets/logo-square-512.png"
+  },
+  {
+    "id": "redro-burger-engine",
+    "name": "Redro Burger Engine",
+    "category": "entertainment",
+    "version": "0.1",
+    "status": "coming",
+    "description": "نموذج أولي لمحرك ألعاب ثنائي الأبعاد خفيف ولعبة مطعم برغر باستخدام C++ وSDL3. لم تصدر نسخة Android بعد.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/redro_burger",
+    "image": "./icon.svg"
+  },
+  {
+    "id": "redro-bridge-maker",
+    "name": "Redro Bridge Maker",
+    "category": "development",
+    "version": "0.1",
+    "status": "coming",
+    "description": "مشروع أدوات Redro لإنشاء الجسور والتصاميم المرتبطة بها. صفحة المشروع ستعرض المستودع إلى حين تأكيد نسخة تشغيل منشورة.",
+    "url": "",
+    "repo": "https://github.com/mhamedshasho/redro-bridge-maker",
+    "image": "./icon.svg"
   }
 ]
