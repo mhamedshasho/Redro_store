@@ -1,0 +1,49 @@
+name: Build Redro APK Bundle
+
+on:
+  push:
+    paths:
+      - ".github/workflows/build-apk-bundle.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bundle:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download published APK files
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p redro-apks
+          curl -fL "https://github.com/mhamedshasho/redro-to-list/releases/download/android-preview-45839507294/redro-to-list-android-apk.apk" -o "redro-apks/Redro-To-Do.apk"
+          curl -fL "https://github.com/mhamedshasho/redro-to-list/releases/download/android-preview-45839507294/redro-phone-manager-android-apk.apk" -o "redro-apks/Redro-Phone-Manager.apk"
+          curl -fL "https://github.com/mhamedshasho/redro-free-spoil-copy/releases/download/android-preview-45839562694/redro-food-stock-android-debug.apk" -o "redro-apks/Redro-Spoil-Free-Copy.apk"
+          curl -fL "https://github.com/mhamedshasho/redro-barber-manager/releases/download/android-preview-45839532615/redro-barber-manager-android-apk.apk" -o "redro-apks/Redro-Barber-Manager.apk"
+          curl -fL "https://github.com/mhamedshasho/redro-barber-client/releases/download/android-preview-45839541129/redro-barber-client-android-apk.apk" -o "redro-apks/Redro-Barber-Client.apk"
+          curl -fL "https://github.com/mhamedshasho/redro-school-planner/releases/download/android-preview-45839516116/redro-school-planner-android-apk.apk" -o "redro-apks/Redro-School-Planner.apk"
+          curl -fL "https://github.com/mhamedshasho/Redro-flowchart/releases/download/android-preview-45839525615/redro-flowchart-android-apk.apk" -o "redro-apks/Redro-Flowchart.apk"
+          curl -fL "https://github.com/mhamedshasho/Redro-reserve/releases/download/android-preview-45839314835/redro-reserve-android-apk.apk" -o "redro-apks/Redro-Reserve.apk"
+          curl -fL "https://github.com/mhamedshasho/Redro-connect/releases/download/android-preview-45839293664/redro-connect-android-apk.apk" -o "redro-apks/Redro-Connect.apk"
+          curl -fL "https://github.com/mhamedshasho/redro-pricing/releases/download/android-preview-45839572039/Redro-Pricing-Android-APK.apk" -o "redro-apks/Redro-Pricing.apk"
+          curl -fL "https://github.com/mhamedshasho/Redro-Aleppo-center-cash-offline-version-/releases/download/android-preview-45839581549/Redro-Center-Cash-APK.apk" -o "redro-apks/Redro-Center-Cash-Offline.apk"
+          cat > redro-apks/README.txt <<'EOF'
+          REDRO APK COLLECTION
+          These are preview/debug APK builds, not production-signed releases.
+          Some devices may require uninstalling an older build before installation.
+          Redro Workforce is excluded because it is still under development.
+          Redro Islamic is excluded because its existing APK was not part of the verified download links.
+          EOF
+          test "$(find redro-apks -maxdepth 1 -name '*.apk' | wc -l)" -eq 11
+          cd redro-apks
+          zip -9 ../Redro-Android-APKs.zip ./*
+      - name: Publish ZIP release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create redro-apk-bundle-2026-11-26 Redro-Android-APKs.zip \
+            --repo "${GITHUB_REPOSITORY}" \
+            --title "Redro Android APK Collection" \
+            --notes "Collection of 11 verified Redro APK preview builds. These are debug/unsigned builds, not production-signed releases."
