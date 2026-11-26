@@ -1,1 +1,17 @@
-{"name":"Redro Store","short_name":"Redro Store","start_url":"./","scope":"./","display":"standalone","background_color":"#0d0d11","theme_color":"#ed3545","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{
+  "name": "Redro Store",
+  "short_name": "Redro Store",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d0d11",
+  "theme_color": "#ed3545",
+  "icons": [
+    {
+      "src": "./assets/logos/1795709949305.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
