@@ -158,25 +158,5 @@
     "description": "تطبيق إسلامي يجمع مواقيت الصلاة والأذان والمصحف والأذكار والقبلة والسبحة وحاسبة الزكاة.",
     "url": "",
     "image": "https://raw.githubusercontent.com/mhamedshasho/REDRO-ISLAMIC/main/assets/logo-square-512.png"
-  },
-  {
-    "id": "redro-burger-engine",
-    "name": "Redro Burger Engine",
-    "category": "entertainment",
-    "version": "0.1",
-    "status": "coming",
-    "description": "نموذج أولي لمحرك ألعاب ثنائي الأبعاد خفيف ولعبة مطعم برغر باستخدام C++ وSDL3. لم تصدر نسخة Android بعد.",
-    "url": "",
-    "image": "./icon.svg"
-  },
-  {
-    "id": "redro-bridge-maker",
-    "name": "Redro Bridge Maker",
-    "category": "development",
-    "version": "0.1",
-    "status": "coming",
-    "description": "مشروع أدوات Redro لإنشاء الجسور والتصاميم المرتبطة بها. صفحة المشروع ستعرض المستودع إلى حين تأكيد نسخة تشغيل منشورة.",
-    "url": "",
-    "image": "./icon.svg"
   }
 ]
