@@ -120,26 +120,6 @@
     "image": "./icon.svg"
   },
   {
-    "id": "redro-pdf-to-word",
-    "name": "Redro PDF to Word",
-    "category": "tools",
-    "version": "0.1",
-    "status": "coming",
-    "description": "أداة لتحويل ملفات PDF إلى Word مع معالجة محلية للملفات. نسخة الويب والحاسوب قيد التطوير وتختلف دقة التنسيق بحسب المستند.",
-    "url": "",
-    "image": "./icon.svg"
-  },
-  {
-    "id": "redro-pdf-converter",
-    "name": "Redro PDF Converter",
-    "category": "tools",
-    "version": "0.1",
-    "status": "coming",
-    "description": "مشروع مخطط لتطبيق Android لتحويل PDF إلى Word محلياً على الجهاز. لم تصدر نسخة APK بعد.",
-    "url": "",
-    "image": "./icon.svg"
-  },
-  {
     "id": "redro-center-cash-offline",
     "name": "Redro Center Cash Offline",
     "category": "business",
